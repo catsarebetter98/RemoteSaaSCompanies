@@ -21,17 +21,12 @@ ALICE | [https://aliceplatform.com](https://aliceplatform.com?ref=thousandcareer
 Alight Solutions | [https://alight.com](https://alight.com?ref=thousandcareers.com) | Worldwide
 allyDVM | [https://www.allydvm.com](https://www.allydvm.com?ref=thousandcareers.com) | USA
 Anomali | [https://www.anomali.com/company/careers](https://www.anomali.com/company/careers?ref=thousandcareers.com) | USA, UK, Singapore
-[apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
-[Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
-[ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
-[Arkency](/company-profiles/arkency.md) | https://arkency.com/ | Worldwide
-[Art & Logic](/company-profiles/art-and-logic.md) | https://artandlogic.com | USA and Canada
-[Artefactual Systems](/company-profiles/artefactual.md) | https://www.artefactual.com | UTC-8 to UTC+2
-[Articulate](/company-profiles/articulate.md) | https://www.articulate.com | Worldwide
-[Astronomer](/company-profiles/astronomer.md) | https://www.astronomer.io/ | USA
-[Audiense](/company-profiles/audiense.md) ️ | https://www.audiense.com/ | Worldwide
-[Aula Education](/company-profiles/aula.md) | https://aula.education/ | Worldwide
-[Auth0](/company-profiles/auth0.md) | https://auth0.com/ | Worldwide
+Appstractor Corporation | [https://www.appstractor.com](https://www.appstractor.com?ref=thousandcareers.com) | USA, UK, Israel
+Articulate | [https://www.articulate.com](https://www.articulate.com?ref=thousandcareers.com) | Worldwide
+Astronomer | [https://www.astronomer.io](https://www.astronomer.io?ref=thousandcareers.com) | USA
+Audiense | [https://www.audiense.com](https://www.audiense.com?ref=thousandcareers.com) | Worldwide
+Aula Education| [https://aula.education](https://aula.education?ref=thousandcareers.com) | Worldwide
+Auth0| [https://auth0.com](https://auth0.com?ref=thousandcareers.com) | Worldwide
 [Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
 [Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
 [Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
