@@ -1,6 +1,8 @@
 # Remote SaaS Companies - Travel and code, what can be better than that?
 List of Remote SaaS companies. Brought to you by @catsarebetter and [Thousand Careers](https://www.thousandcareers.com/)
 
+The founder of Thousand Careers is looking to join a remote SaaS company as a software engineer! [Catsarebetter Linkedin](https://www.linkedin.com/in/hshidara/)
+
 ## Companies
 
 Name | Website | Region
