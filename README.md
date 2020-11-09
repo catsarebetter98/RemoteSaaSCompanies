@@ -1,5 +1,5 @@
 # RemoteSaaSCompanies
-List of Remote SaaS companies. Brought to you by @catsarebetter and [Thousand Careers](thousandcareers.com)
+List of Remote SaaS companies. Brought to you by @catsarebetter and [Thousand Careers](https://www.thousandcareers.com/)
 
 ## Companies
 
