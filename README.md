@@ -10,12 +10,9 @@ Name | Website | Region
 15Five | https://www.15five.com | Europe, Americas
 17hats | https://www.17hats.com/ | Worldwide
 1Password | https://www.1password.com | Worldwide
-[abiturma](/company-profiles/abiturma.md) | https://www.abiturma.de/ | Germany
-[Ably](/company-profiles/ably.md) | https://www.ably.io/ | Europe
-[Abstract API](/company-profiles/abstract.md) | https://www.abstractapi.com | Worldwide
-[acct](/company-profiles/acct.md) | https://acct.global | Worldwide
-[Acquia](/company-profiles/acquia.md) | https://www.acquia.com/ | Worldwide
-[ActiveCampaign](/company-profiles/activecampaign.md) | https://www.activecampaign.com/ | Dublin, Ireland; USA
+Ably | https://www.ably.io/ | Europe
+Abstract API | https://www.abstractapi.com | Worldwide
+ActiveCampaign | https://www.activecampaign.com/ | Dublin, Ireland; USA
 [Ad Hoc](/company-profiles/ad-hoc.md) | https://www.adhocteam.us/ | USA
 [Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
 [AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
