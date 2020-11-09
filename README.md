@@ -7,18 +7,14 @@ The [founder](https://www.linkedin.com/in/hshidara/) of Thousand Careers is look
 
 Name | Website | Region
 ------------ | ------- | -------
-15Five | https://www.15five.com | Europe, Americas
-17hats | https://www.17hats.com/ | Worldwide
-1Password | https://www.1password.com | Worldwide
-Ably | https://www.ably.io/ | Europe
-Abstract API | https://www.abstractapi.com | Worldwide
-ActiveCampaign | https://www.activecampaign.com/ | Dublin, Ireland; USA
-[Adaface](/company-profiles/adaface.md) | https://www.adaface.com | Asia
-[AddStructure](/company-profiles/addstructure.md)| https://www.bazaarvoice.com/ | USA
-[Adzuna](/company-profiles/adzuna.md) | https://www.adzuna.co.uk/ | Worldwide
-[AE Studio](/company-profiles/aestudio.md) | https://ae.studio/ | USA, BR
-[Aerolab](/company-profiles/aerolab.md) | https://aerolab.co/ | Latin America
-[AgFlow](/company-profiles/agflow.md) | https://www.agflow.com | Europe
+15Five | https://www.15five.com?ref=thousandcareers.com | Europe, Americas
+17hats | https://www.17hats.com?ref=thousandcareers.com | Worldwide
+1Password | https://www.1password.com?ref=thousandcareers.com | Worldwide
+Ably | https://www.ably.io?ref=thousandcareers.com | Europe
+Abstract API | https://www.abstractapi.com?ref=thousandcareers.com | Worldwide
+ActiveCampaign | https://www.activecampaign.com?ref=thousandcareers.com | Dublin, Ireland; USA
+Adaface | https://www.adaface.com?ref=thousandcareers.com | Asia
+AgFlow | https://www.agflow.com?ref=thousandcareers.com | Europe
 [Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
 [Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
