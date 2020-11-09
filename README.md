@@ -17,15 +17,10 @@ Adaface | [https://www.adaface.com](https://www.adaface.com?ref=thousandcareers.
 AgFlow | [https://www.agflow.com](https://www.agflow.com?ref=thousandcareers.com) | Europe
 Aha! | [https://www.aha.io](https://www.aha.io?ref=thousandcareers.com) | Worldwide
 Algorithmia | [https://algorithmia.com](https://algorithmia.com?ref=thousandcareers.com) | the USA or Canada
-[ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
-[Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
-[Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
-[allyDVM](/company-profiles/allydvm.md) | https://www.allydvm.com/ | USA
-[AlphaSights](/company-profiles/alphasights.md) | https://engineering.alphasights.com | USA, UK, (EST, GMT)
-[Amazon](/company-profiles/amazon.md) | https://www.amazon.jobs/en/locations/virtual-locations | Worldwide
-[Anexus](/company-profiles/anexus.md) | http://www.anexusit.com/ | Latin America
-[Animalz](/company-profiles/animalz.md) | https://www.animalz.co | USA 
-[Anomali](/company-profiles/anomali.md) | https://www.anomali.com/company/careers | USA, UK, Singapore
+ALICE | [https://aliceplatform.com](https://aliceplatform.com?ref=thousandcareers.com) | Worldwide
+Alight Solutions | [https://alight.com](https://alight.com?ref=thousandcareers.com) | Worldwide
+allyDVM | [https://www.allydvm.com](https://www.allydvm.com?ref=thousandcareers.com) | USA
+Anomali | [https://www.anomali.com/company/careers](https://www.anomali.com/company/careers?ref=thousandcareers.com) | USA, UK, Singapore
 [apartment therapy](/company-profiles/apartment-therapy.md) | http://www.apartmenttherapy.com/ | USA
 [Appstractor Corporation](/company-profiles/appstractor.md) | https://www.appstractor.com/ | USA, UK, Israel
 [ARK](/company-profiles/ark.md) | https://www.ark.io/careers | Worldwide
