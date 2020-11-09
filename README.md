@@ -27,23 +27,17 @@ Astronomer | [https://www.astronomer.io](https://www.astronomer.io?ref=thousandc
 Audiense | [https://www.audiense.com](https://www.audiense.com?ref=thousandcareers.com) | Worldwide
 Aula Education| [https://aula.education](https://aula.education?ref=thousandcareers.com) | Worldwide
 Auth0| [https://auth0.com](https://auth0.com?ref=thousandcareers.com) | Worldwide
-[Automattic](/company-profiles/automattic.md) | https://automattic.com/ | Worldwide
-[Axelerant](/company-profiles/axelerant.md) | https://axelerant.com/ | Worldwide
-[Bairesdev](/company-profiles/bairesdev.md) | https://bairesdev.com/ | Worldwide
-[Balena](/company-profiles/balena.md) | https://www.balena.io/ | Worldwide
-[Balsamiq](/company-profiles/balsamiq.md) | https://balsamiq.com/ | Worldwide
-[Bandcamp](/company-profiles/bandcamp.md) | https://bandcamp.com/ | Worldwide
-[Bandzoogle](/company-profiles/bandzoogle.md) | https://bandzoogle.com/ | Worldwide
-[Baremetrics](/company-profiles/baremetrics.md) | https://baremetrics.com/ | Worldwide
-[Basecamp](/company-profiles/basecamp.md) | https://basecamp.com/ | Worldwide
-[BeBanjo](/company-profiles/bebanjo.md) | https://bebanjo.com/ | Worldwide
-[BeenVerified](/company-profiles/beenverified.md) | https://www.beenverified.com/ | Worldwide
-[Best Practical Solutions](/company-profiles/best-practical-solutions.md) | https://bestpractical.com/ | Worldwide
-[Betable](/company-profiles/betable.md) | https://corp.betable.com/ | USA, Europe
-[BetaPeak](/company-profiles/betapeak.md) | https://betapeak.com/ |
-[BetterUp](/company-profiles/betterup.md) | https://betterup.co | USA
-[BeyondPricing](/company-profiles/beyondpricing.md) | https://beyondpricing.com | Worldwide
-[Big Cartel](/company-profiles/big-cartel.md) | https://www.bigcartel.com | USA
+Automattic | [https://automattic.com](https://automattic.com?ref=thousandcareers.com) | Worldwide
+Balena | [https://www.balena.io](https://www.balena.io?ref=thousandcareers.com) | Worldwide
+Balsamiq | [https://balsamiq.com](https://balsamiq.com?ref=thousandcareers.com) | Worldwide
+Bandzoogle | [https://bandzoogle.com](https://bandzoogle.com?ref=thousandcareers.com) | Worldwide
+Baremetrics | [https://baremetrics.com](https://baremetrics.com?ref=thousandcareers.com) | Worldwide
+Basecamp | [https://basecamp.com](https://basecamp.com?ref=thousandcareers.com) | Worldwide
+BeBanjo | [https://bebanjo.com](https://bebanjo.com?ref=thousandcareers.com) | Worldwide
+Best Practical Solutions | [https://bestpractical.com](https://bestpractical.com?ref=thousandcareers.com) | Worldwide
+Betable | [https://corp.betable.com](https://corp.betable.com?ref=thousandcareers.com) | USA, Europe
+BeyondPricing | [https://beyondpricing.com](https://beyondpricing.com?ref=thousandcareers.com) | Worldwide
+Big Cartel | [https://www.bigcartel.com](https://www.bigcartel.com?ref=thousandcareers.com) | USA
 [Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | https://www.bigwheelbrigade.com/ | USA
 [Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
 [Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
