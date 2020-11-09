@@ -8,15 +8,15 @@ The [founder](https://www.linkedin.com/in/hshidara/) of Thousand Careers is look
 Name | Website | Region
 ------------ | ------- | -------
 15Five | [https://www.15five.com](https://www.15five.com?ref=thousandcareers.com) | Europe, Americas
-17hats | https://www.17hats.com?ref=thousandcareers.com | Worldwide
-1Password | https://www.1password.com?ref=thousandcareers.com | Worldwide
-Ably | https://www.ably.io?ref=thousandcareers.com | Europe
-Abstract API | https://www.abstractapi.com?ref=thousandcareers.com | Worldwide
-ActiveCampaign | https://www.activecampaign.com?ref=thousandcareers.com | Dublin, Ireland; USA
-Adaface | https://www.adaface.com?ref=thousandcareers.com | Asia
-AgFlow | https://www.agflow.com?ref=thousandcareers.com | Europe
-[Aha!](/company-profiles/aha.md) | https://www.aha.io | Worldwide
-[Algorithmia](/company-profiles/algorithmia.md) | https://algorithmia.com/ | the USA or Canada
+17hats | [https://www.17hats.com](https://www.17hats.com?ref=thousandcareers.com) | Worldwide
+1Password | [https://www.1password.com](https://www.1password.com?ref=thousandcareers.com) | Worldwide
+Ably | [https://www.ably.io](https://www.ably.io?ref=thousandcareers.com) | Europe
+Abstract API | [https://www.abstractapi.com](https://www.abstractapi.com?ref=thousandcareers.com) | Worldwide
+ActiveCampaign | [https://www.activecampaign.com](https://www.activecampaign.com?ref=thousandcareers.com) | Dublin, Ireland; USA
+Adaface | [https://www.adaface.com](https://www.adaface.com?ref=thousandcareers.com) | Asia
+AgFlow | [https://www.agflow.com](https://www.agflow.com?ref=thousandcareers.com) | Europe
+Aha! | [https://www.aha.io](https://www.aha.io?ref=thousandcareers.com) | Worldwide
+Algorithmia | [https://algorithmia.com](https://algorithmia.com?ref=thousandcareers.com) | the USA or Canada
 [ALICE](/company-profiles/alice.md) | https://aliceplatform.com | Worldwide
 [Alight Solutions](/company-profiles/alight-solutions.md) | https://alight.com | Worldwide
 [Alley](/company-profiles/alley.md) | https://alley.co | USA, Canada, Western Europe
