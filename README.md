@@ -1,4 +1,4 @@
-# RemoteSaaSCompanies
+# Remote SaaS Companies - Travel and code, what can be better than that?
 List of Remote SaaS companies. Brought to you by @catsarebetter and [Thousand Careers](https://www.thousandcareers.com/)
 
 ## Companies
