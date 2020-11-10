@@ -79,10 +79,8 @@ DNSimple | [https://dnsimple.com](https://dnsimple.com?ref=thousandcareers.com) 
 Docker | [https://www.docker.com](https://www.docker.com?ref=thousandcareers.com) | USA
 Doist | [https://doist.com](https://doist.com?ref=thousandcareers.com) | Worldwide
 Edgar | [https://meetedgar.com](https://meetedgar.com?ref=thousandcareers.com) | USA & Canada
-Edify | [https://edify.cr](https://edify.cr?ref=thousandcareers.com) | Costa Rica & Worldwide
-[Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
-[EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
+Elastic | [https://www.elastic.co](https://www.elastic.co?ref=thousandcareers.com) | Worldwide
+EngineYard (Support Team) | [https://www.engineyard.com](https://www.engineyard.com?ref=thousandcareers.com) | Worldwide
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
