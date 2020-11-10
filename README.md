@@ -68,8 +68,6 @@ Convert | [https://www.convert.com](https://www.convert.com?ref=thousandcareers.
 Core-Apps | [https://www.core-apps.com](https://www.core-apps.com?ref=thousandcareers.com) | USA
 Crowdstrike | [https://www.crowdstrike.com](https://www.crowdstrike.com?ref=thousandcareers.com) | Worldwide
 Customer.io | [https://customer.io](https://customer.io?ref=thousandcareers.com) | Worldwide
-[DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
-[DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | https://dsbrigade.com/ | Worldwide
 [Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
 [DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
@@ -488,3 +486,5 @@ Compucorp | [https://www.compucorp.co.uk](https://www.compucorp.co.uk?ref=thousa
 Open Source
 
 CoreOS | [https://coreos.com](https://coreos.com?ref=thousandcareers.com) | USA
+DashboardHub | [https://dashboardhub.io](https://dashboardhub.io?ref=thousandcareers.com) | Worldwide
+
