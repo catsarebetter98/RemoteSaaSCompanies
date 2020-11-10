@@ -478,13 +478,15 @@ Customer.io | [https://customer.io](https://customer.io?ref=thousandcareers.com)
 
 
 Social Good
-
+Name | Website | Region
+------------ | ------- | -------
 Automattic | [https://automattic.com](https://automattic.com?ref=thousandcareers.com) | Worldwide
 charity: water | [https://www.charitywater.org](https://www.charitywater.org?ref=thousandcareers.com) | USA, Offices in NY
 Compucorp | [https://www.compucorp.co.uk](https://www.compucorp.co.uk?ref=thousandcareers.com) | Worldwide
 
 Open Source
-
+Name | Website | Region
+------------ | ------- | -------
 CoreOS | [https://coreos.com](https://coreos.com?ref=thousandcareers.com) | USA
 DashboardHub | [https://dashboardhub.io](https://dashboardhub.io?ref=thousandcareers.com) | Worldwide
 
