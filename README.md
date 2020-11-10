@@ -27,7 +27,6 @@ Astronomer | [https://www.astronomer.io](https://www.astronomer.io?ref=thousandc
 Audiense | [https://www.audiense.com](https://www.audiense.com?ref=thousandcareers.com) | Worldwide
 Aula Education| [https://aula.education](https://aula.education?ref=thousandcareers.com) | Worldwide
 Auth0| [https://auth0.com](https://auth0.com?ref=thousandcareers.com) | Worldwide
-Automattic | [https://automattic.com](https://automattic.com?ref=thousandcareers.com) | Worldwide
 Balena | [https://www.balena.io](https://www.balena.io?ref=thousandcareers.com) | Worldwide
 Balsamiq | [https://balsamiq.com](https://balsamiq.com?ref=thousandcareers.com) | Worldwide
 Bandzoogle | [https://bandzoogle.com](https://bandzoogle.com?ref=thousandcareers.com) | Worldwide
@@ -49,34 +48,23 @@ CareMessage | [https://caremessage.org/careers](https://caremessage.org/careers?
 CartoDB | [https://cartodb.com](https://cartodb.com?ref=thousandcareers.com) | Worldwide
 CartStack | [https://www.cartstack.com](https://www.cartstack.com?ref=thousandcareers.com) | Worldwide
 Chargify | [https://www.chargify.com](https://www.chargify.com?ref=thousandcareers.com) | USA
-[charity: water](/company-profiles/charity-water.md) | https://www.charitywater.org/ | USA, Offices in NY
-[Checkly](/company-profiles/checkly.md) | https://www.checklyhq.com | Europe (CET -3 / CET +3)
-[Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
-[ChefsClub](/company-profiles/chefsclub.md) | https://www.chefsclub.com.br/ | Brazil
-[Chroma](/company-profiles/chroma.md) | https://hichroma.com/ | Worldwide
-[CircleCI](/company-profiles/circleci.md) | https://circleci.com/ |
-[Circonus](/company-profiles/circonus.md) | https://circonus.com/ | USA
-[CivicActions](/company-profiles/civicactions.md) | https://civicactions.com/ | Worldwide
-[Clevertech](/company-profiles/clevertech.md) | https://clevertech.biz/ | Worldwide
-[Close](/company-profiles/close.md) | https://close.com | Worldwide
-[CloudApp](/company-profiles/cloudapp.md) | https://getcloudapp.com | North America
-[Codea IT](/company-profiles/codea-it.md) | https://www.codeait.com | Worldwide
-[CodePen](/company-profiles/codepen.md) | https://codepen.io | Worldwide
-[CodeSandbox](/company-profiles/codesandbox.md) | https://codesandbox.io | Worldwide
-[Codeship](/company-profiles/codeship.md) | https://codeship.com/ | Worldwide
-[Codestunts](/company-profiles/codestunts.md) | https://codestunts.com/ | Worldwide
-[Cofense](/company-profiles/cofense.md) | https://cofense.com | USA
-[Colivre](/company-profiles/colivre.md) | https://colivre.coop.br/ | Worldwide
-[Collabora](/company-profiles/collabora.md) | https://www.collabora.com/ | Worldwide
-[Comet](/company-profiles/comet.md) | https://www.comet.co/ | France
-[Compose](/company-profiles/compose.md) | https://www.compose.io/ | Worldwide
-[Compucorp](/company-profiles/compucorp.md)️ | https://www.compucorp.co.uk | Worldwide
-[Connexa](/company-profiles/connexa.md) | https://www.connexa.com/ |
-[ConsenSys](/company-profiles/consensys.md) | https://consensys.net/ | Worldwide
-[Consumer Financial Protection Bureau](/company-profiles/consumer-financial-protection-bureau.md) | https://www.consumerfinance.gov | USA
-[Continu](/company-profiles/continu.md) | https://www.continu.co/ | USA
-[Conversio](/company-profiles/conversio.md) | https://conversio.com/ | Worldwide
-[Convert](/company-profiles/convert.md) | https://www.convert.com | Worldwide
+Checkly | [https://www.checklyhq.com](https://www.checklyhq.com?ref=thousandcareers.com) | Europe (CET -3 / CET +3)
+Chef | [https://www.chef.io](https://www.chef.io?ref=thousandcareers.com) | USA, UK
+ChefsClub | [https://www.chefsclub.com.br](https://www.chefsclub.com.br?ref=thousandcareers.com) | Brazil
+Chroma | [https://hichroma.com](https://hichroma.com?ref=thousandcareers.com) | Worldwide
+CircleCI | [https://circleci.com](https://circleci.com?ref=thousandcareers.com) |
+Circonus | [https://circonus.com](https://circonus.com?ref=thousandcareers.com) | USA
+Close | [https://close.com](https://close.com?ref=thousandcareers.com) | Worldwide
+CloudApp | [https://getcloudapp.com](https://getcloudapp.com?ref=thousandcareers.com) | North America
+CodePen | [https://codepen.io](https://codepen.io?ref=thousandcareers.com) | Worldwide
+CodeSandbox | [https://codesandbox.io](https://codesandbox.io?ref=thousandcareers.com) | Worldwide
+Codeship | [https://codeship.com](https://codeship.com?ref=thousandcareers.com) | Worldwide
+Cofense | [https://cofense.com](https://cofense.com?ref=thousandcareers.com) | USA
+Compose | [https://www.compose.io](https://www.compose.io?ref=thousandcareers.com) | Worldwide
+ConsenSys | [https://consensys.net](https://consensys.net?ref=thousandcareers.com) | Worldwide
+Continu | [https://www.continu.co](https://www.continu.co?ref=thousandcareers.com) | USA
+Conversio | [https://conversio.com](https://conversio.com?ref=thousandcareers.com) | Worldwide
+Convert | [https://www.convert.com](https://www.convert.com?ref=thousandcareers.com) | Worldwide
 [Core-Apps](/company-profiles/core-apps.md) | https://www.core-apps.com/ | USA
 [CoreOS](/company-profiles/coreos.md) | https://coreos.com/ | USA
 [Corgibytes](/company-profiles/corgibytes.md) | https://corgibytes.com | USA East Coast
@@ -495,4 +483,11 @@ Chargify | [https://www.chargify.com](https://www.chargify.com?ref=thousandcaree
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | https://zeit.io/ | Germany, The Netherlands, Spain, Chile
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
+
+
+Social Good
+
+Automattic | [https://automattic.com](https://automattic.com?ref=thousandcareers.com) | Worldwide
+charity: water | [https://www.charitywater.org](https://www.charitywater.org?ref=thousandcareers.com) | USA, Offices in NY
+Compucorp | [https://www.compucorp.co.uk](https://www.compucorp.co.uk?ref=thousandcareers.com) | Worldwide
 
