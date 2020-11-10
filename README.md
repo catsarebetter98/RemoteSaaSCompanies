@@ -469,6 +469,6 @@ DataStax | [https://www.datastax.com](https://www.datastax.com?ref=thousandcaree
 # Job Board for Job Boards
 
 Board | Website | Region | Value Proposition
------------- | ------- | -------
-MiraJobs | [https://mirajobs.com](https://mirajobs.com/?ref=thousandcareers.com) | USA | Confidential Job Search
+------------ | ------- | ------- | -------
+MiraJobs | [https://mirajobs.com](https://mirajobs.com?ref=thousandcareers.com) | USA | Confidential Job Search
 
