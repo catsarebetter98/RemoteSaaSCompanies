@@ -81,11 +81,9 @@ Doist | [https://doist.com](https://doist.com?ref=thousandcareers.com) | Worldwi
 Edgar | [https://meetedgar.com](https://meetedgar.com?ref=thousandcareers.com) | USA & Canada
 Elastic | [https://www.elastic.co](https://www.elastic.co?ref=thousandcareers.com) | Worldwide
 EngineYard (Support Team) | [https://www.engineyard.com](https://www.engineyard.com?ref=thousandcareers.com) | Worldwide
+Envoy | [https://envoy.com](https://envoy.com?ref=thousandcareers.com) | USA, Canada & Colombia
+
 <!---
-[Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
-[Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
-[Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
-[Envoy](/company-profiles/envoy.md) | https://envoy.com/ | USA, Canada & Colombia
 [Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
 [Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide
 [Episource](/company-profiles/episource.md) | https://episource.com | USA
@@ -93,7 +91,6 @@ EngineYard (Support Team) | [https://www.engineyard.com](https://www.engineyard.
 [Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
 [Estately](/company-profiles/estately.md) | https://www.estately.com/ | USA
 [Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
-[Etsy](/company-profiles/etsy.md) | https://www.etsy.com/ | Worldwide
 [EVELO](/company-profiles/evelo.md)  | https://evelo.com | USA
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
