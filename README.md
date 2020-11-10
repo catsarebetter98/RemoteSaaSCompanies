@@ -44,18 +44,11 @@ Bonsai | [https://www.hellobonsai.com](https://www.hellobonsai.com?ref=thousandc
 Bright Funds | [https://www.brightfunds.org](https://www.brightfunds.org?ref=thousandcareers.com) | USA
 Buffer | [https://buffer.com](https://buffer.com?ref=thousandcareers.com) | Worldwide
 Bugfender | [https://bugfender.com](https://bugfender.com?ref=thousandcareers.com) | Worldwide
-[Bulut Yazilim](/company-profiles/bulut-yazilim.md)  | https://bulutyazilim.com/ | Worldwide
-[BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
-[Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
-[Canonical](/company-profiles/canonical.md) | https://www.canonical.com/ | Worldwide
-[Capchase](/company-profiles/capchase.md) | https://www.capchase.com/ | Worldwide
-[Carbon Black](/company-profiles/carbon-black.md) | https://www.carbonblack.com/ | USA, Offices in Boston, MA
-[Cards Against Humanity](/company-profiles/cards-against-humanity.md) | https://cardsagainsthumanity.com/ | USA
-[CareMessage](/company-profiles/caremessage.md) | https://caremessage.org/careers/ | Worldwide
-[CartoDB](/company-profiles/cartodb.md) | https://cartodb.com/ | Worldwide
-[CartStack](/company-profiles/cartstack.md) | https://www.cartstack.com/ | Worldwide
-[Casumo](/company-profiles/casumo.md) | https://www.casumo.com/ | Europe
-[Chargify](/company-profiles/chargify.md) | https://www.chargify.com/ | USA
+Carbon Black | [https://www.carbonblack.com](https://www.carbonblack.com?ref=thousandcareers.com) | USA, Offices in Boston, MA
+CareMessage | [https://caremessage.org/careers](https://caremessage.org/careers?ref=thousandcareers.com) | Worldwide
+CartoDB | [https://cartodb.com](https://cartodb.com?ref=thousandcareers.com) | Worldwide
+CartStack | [https://www.cartstack.com](https://www.cartstack.com?ref=thousandcareers.com) | Worldwide
+Chargify | [https://www.chargify.com](https://www.chargify.com?ref=thousandcareers.com) | USA
 [charity: water](/company-profiles/charity-water.md) | https://www.charitywater.org/ | USA, Offices in NY
 [Checkly](/company-profiles/checkly.md) | https://www.checklyhq.com | Europe (CET -3 / CET +3)
 [Chef](/company-profiles/chef.md) | https://www.chef.io/ | USA, UK
