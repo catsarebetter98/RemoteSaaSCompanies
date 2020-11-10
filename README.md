@@ -83,17 +83,12 @@ Elastic | [https://www.elastic.co](https://www.elastic.co?ref=thousandcareers.co
 EngineYard (Support Team) | [https://www.engineyard.com](https://www.engineyard.com?ref=thousandcareers.com) | Worldwide
 Envoy | [https://envoy.com](https://envoy.com?ref=thousandcareers.com) | USA, Canada & Colombia
 Episource | [https://episource.com](https://episource.com?ref=thousandcareers.com) | USA
+Fastly | [https://www.fastly.com](https://www.fastly.com?ref=thousandcareers.com) |
+Fauna | [https://www.fauna.com](https://www.fauna.com?ref=thousandcareers.com) | Worldwide
+Fentime | [https://www.fentime.com](https://www.fentime.com?ref=thousandcareers.com) | China
+Findify | [https://findify.io](https://findify.io?ref=thousandcareers.com) | UTC+2 +\- 2
 
 <!---
-[Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
-[Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
-[Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ |
-[Fauna](/company-profiles/fauna.md) | https://www.fauna.com/ | Worldwide
-[Featurist](/company-profiles/featurist.md) | https://www.featurist.co.uk/ |
-[Fentime](/company-profiles/fentime.md) | https://www.fentime.com/ | China
-[Fetlife](/company-profiles/fetlife.md) | https://fetlife.com/ | Worldwide
-[Filament Group](/company-profiles/filament-group.md) | https://www.filamentgroup.com/ | USA
-[Findify](/company-profiles/findify.md) | https://findify.io | UTC+2 +\- 2
 [Fire Engine Red](/company-profiles/fire-engine-red.md) | https://fire-engine-red.com/ | Worldwide
 [FivexL](/company-profiles/fivexl.md) | https://fivexl.io | Worldwide
 [Flowing](/company-profiles/flowing.md) | https://flowing.it | Italy
