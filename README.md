@@ -81,6 +81,7 @@ Doist | [https://doist.com](https://doist.com?ref=thousandcareers.com) | Worldwi
 Edgar | [https://meetedgar.com](https://meetedgar.com?ref=thousandcareers.com) | USA & Canada
 Elastic | [https://www.elastic.co](https://www.elastic.co?ref=thousandcareers.com) | Worldwide
 EngineYard (Support Team) | [https://www.engineyard.com](https://www.engineyard.com?ref=thousandcareers.com) | Worldwide
+<!---
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
@@ -465,16 +466,16 @@ EngineYard (Support Team) | [https://www.engineyard.com](https://www.engineyard.
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | https://zeit.io/ | Germany, The Netherlands, Spain, Chile
 [Zignaly.com](/company-profiles/zignaly.md) | https://zignaly.io/ | Worldwide
+-->
 
-
-Social Good
+# Social Good
 Name | Website | Region
 ------------ | ------- | -------
 Automattic | [https://automattic.com](https://automattic.com?ref=thousandcareers.com) | Worldwide
 charity: water | [https://www.charitywater.org](https://www.charitywater.org?ref=thousandcareers.com) | USA, Offices in NY
 Compucorp | [https://www.compucorp.co.uk](https://www.compucorp.co.uk?ref=thousandcareers.com) | Worldwide
 
-Open Source
+# Open Source
 Name | Website | Region
 ------------ | ------- | -------
 CoreOS | [https://coreos.com](https://coreos.com?ref=thousandcareers.com) | USA
