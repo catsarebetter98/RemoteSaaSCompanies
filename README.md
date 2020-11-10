@@ -65,15 +65,9 @@ ConsenSys | [https://consensys.net](https://consensys.net?ref=thousandcareers.co
 Continu | [https://www.continu.co](https://www.continu.co?ref=thousandcareers.com) | USA
 Conversio | [https://conversio.com](https://conversio.com?ref=thousandcareers.com) | Worldwide
 Convert | [https://www.convert.com](https://www.convert.com?ref=thousandcareers.com) | Worldwide
-[Core-Apps](/company-profiles/core-apps.md) | https://www.core-apps.com/ | USA
-[CoreOS](/company-profiles/coreos.md) | https://coreos.com/ | USA
-[Corgibytes](/company-profiles/corgibytes.md) | https://corgibytes.com | USA East Coast
-[Crossover](/company-profiles/crossover.md)  | https://www.crossover.com | Worldwide
-[Crowdstrike](/company-profiles/crowdstrike.md) | https://www.crowdstrike.com | Worldwide
-[CrowdTangle](/company-profiles/crowdtangle.md) | https://crowdtangle.com | USA
-[Cueup](/company-profiles/cueup.md) | https://cueup.io/ | Worldwide
-[Customer.io](/company-profiles/customer-io.md) | https://customer.io | Worldwide
-[Dalenys](/company-profiles/dalenys.md) | https://dalenys.com/ | Europe
+Core-Apps | [https://www.core-apps.com](https://www.core-apps.com?ref=thousandcareers.com) | USA
+Crowdstrike | [https://www.crowdstrike.com](https://www.crowdstrike.com?ref=thousandcareers.com) | Worldwide
+Customer.io | [https://customer.io](https://customer.io?ref=thousandcareers.com) | Worldwide
 [DareCode](/company-profiles/darecode.md) | https://darecode.com/ | Europe
 [DashboardHub](/company-profiles/dashboardhub.md) | https://dashboardhub.io | Worldwide
 [Data Science Brigade](/company-profiles/data-science-brigade.md) | https://dsbrigade.com/ | Worldwide
@@ -491,3 +485,6 @@ Automattic | [https://automattic.com](https://automattic.com?ref=thousandcareers
 charity: water | [https://www.charitywater.org](https://www.charitywater.org?ref=thousandcareers.com) | USA, Offices in NY
 Compucorp | [https://www.compucorp.co.uk](https://www.compucorp.co.uk?ref=thousandcareers.com) | Worldwide
 
+Open Source
+
+CoreOS | [https://coreos.com](https://coreos.com?ref=thousandcareers.com) | USA
