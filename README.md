@@ -38,21 +38,12 @@ Best Practical Solutions | [https://bestpractical.com](https://bestpractical.com
 Betable | [https://corp.betable.com](https://corp.betable.com?ref=thousandcareers.com) | USA, Europe
 BeyondPricing | [https://beyondpricing.com](https://beyondpricing.com?ref=thousandcareers.com) | Worldwide
 Big Cartel | [https://www.bigcartel.com](https://www.bigcartel.com?ref=thousandcareers.com) | USA
-[Big Wheel Brigade](/company-profiles/big-wheel-brigade.md) | https://www.bigwheelbrigade.com/ | USA
-[Bill](/company-profiles/bill.md) | https://www.bill.com/ | USA
-[Bitnami](/company-profiles/bitnami.md) | https://bitnami.com/ | Worldwide
-[Bitovi](/company-profiles/bitovi.md) | https://bitovi.com/ | USA & Worldwide
-[Bizink](/company-profiles/bizink.md) | https://bizinkonline.com |
-[Blameless](/company-profiles/blameless.md) | https://www.blameless.com/ | USA, WorldWide
-[Bloc](/company-profiles/bloc.md) | https://www.bloc.io/ |
-[Bluespark](/company-profiles/bluespark.md)  | https://www.bluespark.com/ | USA
-[Bonsai](/company-profiles/bonsai.md) | https://www.hellobonsai.com | Worldwide
-[Brave Investments](/company-profiles/brave-investments.md)  | https://www.crunchbase.com/organization/brave-investment | Brazil
-[Bright Funds](/company-profiles/bright-funds.md) | https://www.brightfunds.org | USA
-[BriteCore](/company-profiles/britecore.md) | https://britecore.com/ | USA, Worldwide
-[BTownWeb](/company-profiles/btownweb.md) | https://www.btownweb.com/ | USA, Europe
-[Buffer](/company-profiles/buffer.md) | https://buffer.com/ | Worldwide
-[Bugfender](/company-profiles/bugfender.md) | https://bugfender.com/ | Worldwide
+Bill | [https://www.bill.com](https://www.bill.com?ref=thousandcareers.com) | USA
+Blameless | [https://www.blameless.com](https://www.blameless.com?ref=thousandcareers.com) | USA, WorldWide
+Bonsai | [https://www.hellobonsai.com](https://www.hellobonsai.com?ref=thousandcareers.com) | Worldwide
+Bright Funds | [https://www.brightfunds.org](https://www.brightfunds.org?ref=thousandcareers.com) | USA
+Buffer | [https://buffer.com](https://buffer.com?ref=thousandcareers.com) | Worldwide
+Bugfender | [https://bugfender.com](https://bugfender.com?ref=thousandcareers.com) | Worldwide
 [Bulut Yazilim](/company-profiles/bulut-yazilim.md)  | https://bulutyazilim.com/ | Worldwide
 [BuySellAds](/company-profiles/buysellads.md) | https://www.buysellads.com/ |  Worldwide
 [Cabify](/company-profiles/cabify.md) | https://cabify.com/ | Spain
