@@ -82,17 +82,9 @@ Edgar | [https://meetedgar.com](https://meetedgar.com?ref=thousandcareers.com) |
 Elastic | [https://www.elastic.co](https://www.elastic.co?ref=thousandcareers.com) | Worldwide
 EngineYard (Support Team) | [https://www.engineyard.com](https://www.engineyard.com?ref=thousandcareers.com) | Worldwide
 Envoy | [https://envoy.com](https://envoy.com?ref=thousandcareers.com) | USA, Canada & Colombia
+Episource | [https://episource.com](https://episource.com?ref=thousandcareers.com) | USA
 
 <!---
-[Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
-[Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide
-[Episource](/company-profiles/episource.md) | https://episource.com | USA
-[Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
-[Ergeon](/company-profiles/ergeon.md) | https://www.ergeon.com/ | Worldwide
-[Estately](/company-profiles/estately.md) | https://www.estately.com/ | USA
-[Etch](/company-profiles/etch.md) | https://www.etch.co | UK, Europe
-[EVELO](/company-profiles/evelo.md)  | https://evelo.com | USA
-[Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
 [Fastly](/company-profiles/fastly.md) | https://www.fastly.com/ |
