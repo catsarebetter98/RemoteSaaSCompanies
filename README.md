@@ -68,9 +68,7 @@ Convert | [https://www.convert.com](https://www.convert.com?ref=thousandcareers.
 Core-Apps | [https://www.core-apps.com](https://www.core-apps.com?ref=thousandcareers.com) | USA
 Crowdstrike | [https://www.crowdstrike.com](https://www.crowdstrike.com?ref=thousandcareers.com) | Worldwide
 Customer.io | [https://customer.io](https://customer.io?ref=thousandcareers.com) | Worldwide
-[Data Science Brigade](/company-profiles/data-science-brigade.md) | https://dsbrigade.com/ | Worldwide
-[Datadog](/company-profiles/datadog.md) | https://www.datadoghq.com/ | Worldwide
-[DataStax](/company-profiles/datastax.md) | https://www.datastax.com/ | Worldwide
+Datadog | [https://www.datadoghq.com](https://www.datadoghq.com?ref=thousandcareers.com) | Worldwide
 [Datica](/company-profiles/datica.md) | https://datica.com/ | USA
 [DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
 [Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
@@ -489,4 +487,5 @@ Name | Website | Region
 ------------ | ------- | -------
 CoreOS | [https://coreos.com](https://coreos.com?ref=thousandcareers.com) | USA
 DashboardHub | [https://dashboardhub.io](https://dashboardhub.io?ref=thousandcareers.com) | Worldwide
+DataStax | [https://www.datastax.com](https://www.datastax.com?ref=thousandcareers.com) | Worldwide
 
