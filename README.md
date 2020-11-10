@@ -69,17 +69,15 @@ Core-Apps | [https://www.core-apps.com](https://www.core-apps.com?ref=thousandca
 Crowdstrike | [https://www.crowdstrike.com](https://www.crowdstrike.com?ref=thousandcareers.com) | Worldwide
 Customer.io | [https://customer.io](https://customer.io?ref=thousandcareers.com) | Worldwide
 Datadog | [https://www.datadoghq.com](https://www.datadoghq.com?ref=thousandcareers.com) | Worldwide
-[Datica](/company-profiles/datica.md) | https://datica.com/ | USA
-[DealDash](/company-profiles/dealdash.md) | http://www.dealdash.com | Worldwide
-[Delighted](/company-profiles/delighted.md)| https://delighted.com | Worldwide
-[Designcode](/company-profiles/designcode.md) | https://designcode.io/ | Worldwide
-[Dev Spotlight](/company-profiles/dev-spotlight.md) | https://www.devspotlight.com | Worldwide
-[Dgraph](/company-profiles/dgraph.md) | https://dgraph.io/ | Americas
-[DigitalOcean](/company-profiles/digitalocean.md) | https://www.digitalocean.com/ | Worldwide
-[Discourse](/company-profiles/discourse.md) | https://www.discourse.org/ | Worldwide
-[DNSimple](/company-profiles/dnsimple.md) | https://dnsimple.com/ | Worldwide
-[Docker](/company-profiles/docker.md) | https://www.docker.com | USA
-[Doist](/company-profiles/doist.md) | https://doist.com | Worldwide
+Datica | [https://datica.com](https://datica.com?ref=thousandcareers.com) | USA
+Delighted| [https://delighted.com](https://delighted.com?ref=thousandcareers.com) | Worldwide
+Designcode | [https://designcode.io](https://designcode.io?ref=thousandcareers.com) | Worldwide
+Dgraph | [https://dgraph.io](https://dgraph.io?ref=thousandcareers.com) | Americas
+DigitalOcean | [https://www.digitalocean.com](https://www.digitalocean.com?ref=thousandcareers.com) | Worldwide
+Discourse | [https://www.discourse.org](https://www.discourse.org?ref=thousandcareers.com) | Worldwide
+DNSimple | [https://dnsimple.com](https://dnsimple.com?ref=thousandcareers.com) | Worldwide
+Docker | [https://www.docker.com](https://www.docker.com?ref=thousandcareers.com) | USA
+Doist | [https://doist.com](https://doist.com?ref=thousandcareers.com) | Worldwide
 [DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
 [Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
 [DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
