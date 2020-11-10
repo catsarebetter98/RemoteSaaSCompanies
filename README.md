@@ -78,12 +78,8 @@ Discourse | [https://www.discourse.org](https://www.discourse.org?ref=thousandca
 DNSimple | [https://dnsimple.com](https://dnsimple.com?ref=thousandcareers.com) | Worldwide
 Docker | [https://www.docker.com](https://www.docker.com?ref=thousandcareers.com) | USA
 Doist | [https://doist.com](https://doist.com?ref=thousandcareers.com) | Worldwide
-[DroneDeploy](/company-profiles/dronedeploy.md) | https://www.dronedeploy.com/ | Worldwide
-[Drupal Jedi](/company-profiles/drupal-jedi.md) | https://drupaljedi.com/ | Worldwide
-[DuckDuckGo](/company-profiles/duckduckgo.md) | https://duckduckgo.com/ | Worldwide
-[EarthOfDrones](/company-profiles/earthofdrones.md) | https://earthofdrones.com/ | Worldwide
-[Edgar](/company-profiles/edgar.md) | https://meetedgar.com/ | USA & Canada
-[Edify](/company-profiles/edify.md) | https://edify.cr/ | Costa Rica & Worldwide
+Edgar | [https://meetedgar.com](https://meetedgar.com?ref=thousandcareers.com) | USA & Canada
+Edify | [https://edify.cr](https://edify.cr?ref=thousandcareers.com) | Costa Rica & Worldwide
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
 [Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
 [EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
